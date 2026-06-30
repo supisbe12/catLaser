@@ -19,3 +19,5 @@ I was able to finish up my footprint and transfer that into pcb designing.
 After transferring it over I had a lot of problems with understanding how to wire everything because I didn’t know if there was any rules to it.
 I was quickly able to connect everything but I forgot to add my constraints so I had to restart
 Day 6 — Creation of a Custom PCB Design (PCB design)
+Finished PCB with the new 24 pin connector
+<img width="1112" height="657" alt="image" src="https://github.com/user-attachments/assets/603ec015-3869-419a-88aa-0111a5aa6e0b" />
