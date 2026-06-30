@@ -19,6 +19,7 @@ I struggled the most with not being able to plan out how everything was going to
 Day 4 — Creation of a Custom PCB Design (schematic): 1 hour
 I was able to troubleshoot a lot of the worries that I had when designing my schematic by discovering ERC. I was able to fix any wiring issues and was able to continue working.
 I also started to work on assigning footprints and made sure everything was correct using the help of AI.
+
 Day 5 — Creation of a Custom PCB Design (PCB design): 4 hour
 I was able to finish up my footprint and transfer that into pcb designing.
 After transferring it over I had a lot of problems with understanding how to wire everything because I didn’t know if there was any rules to it.
