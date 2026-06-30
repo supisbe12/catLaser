@@ -27,7 +27,17 @@ I was quickly able to connect everything but I forgot to add my constraints so I
 
 
 
+
+
+
+
 <img width="896" height="537" alt="image" src="https://github.com/user-attachments/assets/a8c5907a-3614-45c5-a87a-9ee7c9409360" />
+
+
+
+
+
+
 
 Day 6 — Creation of a Custom PCB Design (PCB design) 3 hours
 Did a lot of research on the exact camera that I wanted to start cadding but I realized my 18 pin connector will not work with the camera that I wanted to use for my motion tracking.
