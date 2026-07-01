@@ -19,5 +19,5 @@ Software
 Unfinished(need parts)
 ---
 Bill of Materials
-
+https://docs.google.com/spreadsheets/d/1QPfYICotrgUIVAbHsGZsmmrA3oqBLHhNqElr4AwxpG0/edit?usp=sharing
 
