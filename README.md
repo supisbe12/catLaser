@@ -20,10 +20,4 @@ Unfinished(need parts)
 ---
 Bill of Materials
 
-Part	Spec / Connection	Qty	Vendor	Buy Link	Est. Price (USD)
-Taidacent OV2640 — 24-pin FPC ribbon	"2MP, 24-pin 0.5mm FPC — plugs into the ZIF socket on your PCB"	1	Amazon	Buy →	$10.00
-SG90 micro servo	Pan axis + tilt axis — signal wire to GPIO1 (pan) and GPIO2 (tilt)	2	Amazon	Buy →	$9.00
-KY-008 laser diode module	"650nm red, <5mW, Class 2 — signal wire to GPIO42"	1	Amazon	Buy →	$6.00
-18650 protected Li-ion cell	"3.7V nominal, 3000–3400mAh — plugs into the 2-pin battery header"	1	Orbtronic	Buy →	$10.00
-3M Dual Lock reclosable strips	"Stick to back of enclosure + wall — pop off to charge, click back into same spot"	1	Amazon	Buy →	$4.00
-				Estimated Total	$39.00
+
