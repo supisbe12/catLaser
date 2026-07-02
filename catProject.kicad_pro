@@ -708,7 +708,7 @@
         "uuid": "b1c977ef-ff6e-4aad-9909-1acee6aca5d3"
       }
     ],
-    "used_designators": "#PWR61,PanServo2",
+    "used_designators": "RCAP2,#PWR51,#PWR53,#PWR55-56,#PWR61,R1,PanServo2",
     "variants": []
   },
   "sheets": [
